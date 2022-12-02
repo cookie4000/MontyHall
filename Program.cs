@@ -2,7 +2,7 @@
     
     public static void Main(){
 
-        // Loop through the game a thousand times - keep track of winning and losing
+        // Loop through the game - keep track of winning and losing
         int timesToPlay = 1000000;
         int winCount = 0;
         int loseCount = 0;
